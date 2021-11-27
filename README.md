@@ -5,6 +5,8 @@ Aplicação WEB de agendamento de serviços automotivos desenvolvido para o Proj
 
 ## IMAGENS DA APLICAÇÃO
 
+![index](/images/mwa_index.png)
+
 ## TECNOLOGIAS UTILIZADAS
 #### 🟣 BOOTSTRAP
 
