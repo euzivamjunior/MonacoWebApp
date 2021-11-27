@@ -7,12 +7,14 @@ Aplicação WEB de agendamento de serviços automotivos desenvolvido para o Proj
 
 Index                      |  Formulário Agendamento   |  Exemplo Serviço          |  Administração Django     |
 :-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:
-<img src="/images/mwa_index.png" width="200">  |  <img src="/images/mwa_form.png" width="200">  |  <img src="/images/mwa_service.png" width="200">  |  <img src="/images/mwa_admin.png" width="200">
+<img src="/images/mwa_index.png" width="220">  |  <img src="/images/mwa_form.png" width="220">  |  <img src="/images/mwa_service.png" width="220">  |  <img src="/images/mwa_admin.png" width="220">
 
 
 
 ## TECNOLOGIAS UTILIZADAS
 #### 🟣 BOOTSTRAP
+
+Bootstrap é um framework web com código-fonte aberto para desenvolvimento de componentes de interface e front-end para sites e aplicações web usando HTML, CSS e JavaScript, baseado em modelos de design para a tipografia, melhorando a experiência do usuário em um site amigável e responsivo. [Wikipedia](https://pt.wikipedia.org/wiki/Bootstrap_(framework_front-end))
 
 Em edição
 
