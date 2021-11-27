@@ -5,7 +5,11 @@ Aplicação WEB de agendamento de serviços automotivos desenvolvido para o Proj
 
 ## IMAGENS DA APLICAÇÃO
 
-<img src="/images/mwa_index.png" width="200">
+Solarized dark             |  Solarized Ocean
+:-------------------------:|:-------------------------:
+<img src="/images/mwa_index.png" width="200">  |  <img src="/images/mwa_index.png" width="200">
+
+
 
 ## TECNOLOGIAS UTILIZADAS
 #### 🟣 BOOTSTRAP
