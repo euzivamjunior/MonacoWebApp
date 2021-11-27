@@ -5,9 +5,9 @@ Aplicação WEB de agendamento de serviços automotivos desenvolvido para o Proj
 
 ## IMAGENS DA APLICAÇÃO
 
-Solarized dark             |  Solarized Ocean
-:-------------------------:|:-------------------------:
-<img src="/images/mwa_index.png" width="200">  |  <img src="/images/mwa_index.png" width="200">
+Index                      |  Formulário Agendamento   |  Exemplo Serviço          |  Administração Django     |
+:-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:
+<img src="/images/mwa_index.png" width="200">  |  <img src="/images/mwa_form.png" width="200">  |  <img src="/images/mwa_service.png" width="200">  |  <img src="/images/mwa_admin.png" width="200">
 
 
 
