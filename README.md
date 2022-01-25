@@ -3,6 +3,11 @@
 ## DESCRIÇÃO CURTA
 Aplicação WEB de agendamento de serviços automotivos desenvolvido para o Projeto Integrador I [2021/2] da UNIVESP.
 
+## Desenvolvido por:
+Front-End: [Marcelo Laurentino](https://github.com/LaurentinoMarcelo)
+Back-End, Integração de Banco e Deploy: [Euzivam Junior](https://github.com/euzivamjunior)
+
+
 ## IMAGENS DA APLICAÇÃO
 
 Index                      |  Formulário Agendamento   |  Exemplo Serviço          |  Administração Django     |
